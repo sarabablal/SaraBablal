@@ -59,7 +59,7 @@ Symbolic-to-numerical physics engine for robotic arm kinematics — SymPy differ
 ---
 
 ### 📈 Currently Learning
-> _Update this line whenever you finish a new course or project — everything else above stays fixed._
+> _Structured Query Language (SQL)._
 
 ---
 
