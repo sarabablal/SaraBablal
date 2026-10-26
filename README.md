@@ -60,10 +60,11 @@ Symbolic-to-numerical physics engine for robotic arm kinematics — SymPy differ
 
 ### 📈 Currently Learning
 > _Structured Query Language (SQL)._
+> _Numerical Python (NumPy)._
 
 ---
 
-<p align="center"><i>Open to internships and collaborations in energy engineering & data analytics.</i></p>
+<p align="center"><i>Open collaborations in energy engineering & data analytics.</i></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1DB954,100:0A66C2&height=100&section=footer" />
