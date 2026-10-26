@@ -59,8 +59,7 @@ Symbolic-to-numerical physics engine for robotic arm kinematics — SymPy differ
 ---
 
 ### 📈 Currently Learning
-> _Structured Query Language (SQL)._
-> _Numerical Python (NumPy)._
+> _Structured Query Language (SQL)_ & _Numerical Python (NumPy)_
 
 ---
 
